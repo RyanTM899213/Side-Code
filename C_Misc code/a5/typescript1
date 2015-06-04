@@ -1,0 +1,31 @@
+Script started on Tue 21 Oct 2014 10:13:04 PM NDT
+[01;32mryan@rookisland[01;34m ~/cs3710/a5 $[00m ./assign5
+>> enter radius of sphere: 
+2
+sphere volume: 33.510322
+sphere surface area: 50.265482
+>> enter radius of cylinder: 
+6
+>> enter height of cylinder: 
+4
+cylinder volume: 452.389342
+cylinder surface area: 376.991118
+---------------------------
+array before: 
+5
+2
+0
+9
+80
+20
+0
+0
+>> array after: 
+5
+2
+9
+20
+[01;32mryan@rookisland[01;34m ~/cs3710/a5 $[00m exit
+exit
+
+Script done on Tue 21 Oct 2014 10:13:19 PM NDT

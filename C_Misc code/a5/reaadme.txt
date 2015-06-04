@@ -1,0 +1,10 @@
+                            README
+                            
+                            
+                            
+- to compile this code, simply type in terminal "gcc assign5.c -o assign5 -lm"
+- if this doesnt work for some reason, try "gcc assign5.c -o assign5"
+- then to run the code, type "./assign5"
+- now, follow the on-screen instructions to execute each method for the questions
+  given in the assignment.
+                  
